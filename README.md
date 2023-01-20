@@ -14,7 +14,7 @@ Construção do aplicativo habit tracker durante o evento do NLW Setup - apresen
 
 Ferramenta de acompanhamento de hábitos para o usuário colocar em prática suas resoluções e metas, ou seja, registrar ações e acompanhar a evolução dos novos hábitos que deseja colocar na sua rotina. **A aplicação salva as alterações feitas pelo usuário.**
 
-**English:** Habit tracking tool for users to put their resolutions and goals into practice, that is, record actions and monitor the evolution of new habits that they want to put into their routine. **The application saves changes made by the user.****The application saves changes made by the user.**
+**English:** Habit tracking tool for users to put their resolutions and goals into practice, that is, record actions and monitor the evolution of new habits that they want to put into their routine. **The application saves changes made by the user.**
 
 
 ## Screenshots
